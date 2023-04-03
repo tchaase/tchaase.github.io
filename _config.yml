@@ -42,7 +42,7 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                <tobias> <haase>
-  email:               tobias.c.haase@gmail.com
+  email:               <tobias.c.haase@gmail.com>
   picture:             /assets/img/logo.png
   # # Used by `jekyll-seo-tag`:
   social: 
@@ -270,11 +270,7 @@ hydejack:
 
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
-
-favicon: assets/icons/favicon.ico
-apple_touch_icon: /assets/icons/icon_x512.png
-
-
+    
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
   # This is an _experimental_ feature.
