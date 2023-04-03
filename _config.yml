@@ -1,25 +1,14 @@
 # Config
 # ========================================================================================
 
-# Uncomment and set the URL of your site (with protocol, e.g. `https://`)
-# NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-#url:                   https://tchaase.github.io/
-
-# Uncomment and set the "base URL" of your site.
-# When your site is in a subdirectory, set to `/<name of directory>`,
-# with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
-# NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-#baseurl:               ''
+url: https://tchaase.github.io/
+baseurl: ''
 
 
 # General settings
 # ---------------------------------------------------------------------------------------
 
-# Language of your content in 2-letter code, e.g.: en, de.
-# You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
-
-# The title of your blog. Used in the sidebar and the browser tab.
 title:                 Tobias Haase
 
 # A short description (~150 chars) of the page used for the meta description tag.
@@ -33,10 +22,7 @@ tagline:               Master's student of psychology. Interested in memory, neu
 # A list of keywords for your blog
 keywords:              []
 
-# A (square) logo for your site.
-# If provided, it will be shown at the top of the sidebar.
-# It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/logo.png
+logo: /assets/icons/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
