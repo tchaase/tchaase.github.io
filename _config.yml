@@ -282,6 +282,10 @@ hydejack:
       - /assets/img/swipe.svg
 
 
+favicon: /assets/icons/favicon.ico
+app_touch_icon: /assets/img/logo.png
+
+
 # Collections
 # ----------------------------------------------------------------------------------------
 
