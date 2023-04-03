@@ -42,7 +42,7 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                <tobias> <haase>
-  email:               <tobias.c.haase@gmail.com>
+  email:               tobias.c.haase@gmail.com
   picture:             /assets/img/logo.png
   # # Used by `jekyll-seo-tag`:
   social: 
@@ -330,7 +330,6 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
-  - jekyll-include-cache
 
 
 # SEO Tag
