@@ -22,7 +22,7 @@ tagline:               Master's student of psychology. Interested in memory, neu
 # A list of keywords for your blog
 keywords:              []
 
-logo: /assets/icons/logo.png
+logo: /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
