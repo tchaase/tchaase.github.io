@@ -45,7 +45,8 @@ author:
   email:               <tobias.c.haase@gmail.com>
   # # Used by `jekyll-seo-tag`:
   social: 
-    twitter:             <tc_haase>
+    twitter:             tc_haase
+    github:              tchaase
 
 # Add links to the sidebar.
 menu:
