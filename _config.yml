@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Master's student of psychology. Interested in memory, neuroscience and human development. 
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,10 +42,10 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <tobias> <haase>
+  email:               <tobias.c.haase@gmail.com>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+   twitter:             <tc_haase>
 
 # Add links to the sidebar.
 menu:
@@ -61,7 +61,7 @@ legal:
     url:               /NOTICE/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2021 Tobias Haase. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
