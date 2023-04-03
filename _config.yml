@@ -20,13 +20,12 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Tobias Haase
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Tobias' personal website!
 
 # A shorter description for the sidebar.
 tagline:               Master's student of psychology. Interested in memory, neuroscience and human development. 
@@ -45,7 +44,8 @@ author:
   name:                <tobias> <haase>
   email:               <tobias.c.haase@gmail.com>
   # # Used by `jekyll-seo-tag`:
-   twitter:             <tc_haase>
+  social: 
+    twitter:             <tc_haase>
 
 # Add links to the sidebar.
 menu:
