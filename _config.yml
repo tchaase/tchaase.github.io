@@ -266,6 +266,8 @@ hydejack:
     precache_assets:
       - /assets/img/swipe.svg
 
+favicon: assets/icons/favicon.ico
+apple_touch_icon: assets/icons/apple-touch-icon-180x180.png
 
 # Collections
 # ----------------------------------------------------------------------------------------
