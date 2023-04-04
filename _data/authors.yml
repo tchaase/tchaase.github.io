@@ -8,9 +8,9 @@ tobias:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    My name is Tobias Haase! I am a psychology student at Goethe University.
-    This will be my personal website and it's currently under construction!
-
+    My name is Tobias Haase! 
+    I am a psychology student at Goethe University currently pursuing a master's in cognitive psychology. 
+    
   # This photo will be used in the about section
   picture:
     path:            /assets/img/logo.png
