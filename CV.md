@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Curriculum Vitae
 ---
 # Tobias Haase
