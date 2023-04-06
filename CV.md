@@ -4,10 +4,10 @@ title: Curriculum Vitae
 ---
 [**Tobias Haase**](tobias.c.haase@gmail.com) | Student of Psychology
 
-##### Currently
-Finishing my master's in psychology
-##### Research interests
-Memory, human development and open science.
+***Currently***....  
+...I am inishing my master's in psychology
+
+**Research interests**: Memory, human development and open science.  
 #### Education
 
 **10/2021 - now**   
@@ -15,7 +15,7 @@ M.Sc. in Neurocognitive Psychology at Goethe University Frankfurt am Main
 
 **10/2018 - 02/2022**  
 Bachelor of Science in Psychology at Goethe University Frankfurt am Main  
-`Thesis: Effects of sleep Duration and Quality on Memory Consolidation of Preterm and Full-Term Born Children`
+*Thesis: Effects of sleep Duration and Quality on Memory Consolidation of Preterm and Full-Term Born Children*
 
 #### scholarships & awards
 **03/2021**  
