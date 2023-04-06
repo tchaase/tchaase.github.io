@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 ---
-<div id="webaddress"> <a href="tobias.haase@gmail.com">Tobias Haase</a> </div>
+[**Tobias Haase**](tobias.c.haase@gmail.com)
 Student of Psychology
 
 ### Currently
@@ -11,7 +11,7 @@ Finishing my master's in psychology
 Memory, human development and open science.
 ## Education
 
-`10/2021 - now`
+`10/2021 - now`  
 ***M.Sc. in Neurocognitive Psychology at Goethe University Frankfurt am Main***  
 
 `10/2018 - 02/2022`  
