@@ -15,7 +15,7 @@ Memory, human development and open science.
 
 `10/2018 - 02/2022`  
 *Bachelor of Science in Psychology at Goethe University Frankfurt am Main*
-- Thesis: Effects of sleep Duration and Quality on Memory Consolidation of Preterm and Full-Term Born Children
+* Thesis: Effects of sleep Duration and Quality on Memory Consolidation of Preterm and Full-Term Born Children
 
 #### scholarships & awards
 `03/2021`  
