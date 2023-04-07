@@ -3,7 +3,7 @@ layout: about
 redirect_from:
 ---
 
-# About
+# Welcome
 <!--author-->
 
 During my studies so far I have developed an interest in three major areas:
