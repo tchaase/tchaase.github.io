@@ -5,7 +5,7 @@ title: Curriculum Vitae
 [**Tobias Haase**](tobias.c.haase@gmail.com) | Student of Psychology
 
 ***Currently***....  
-...I am inishing my master's in psychology
+...I am finishing my master's in psychology
 
 **Research interests**: Memory, human development and open science.  
 #### Education
