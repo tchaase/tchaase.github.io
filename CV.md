@@ -7,7 +7,7 @@ title: Curriculum Vitae
 ***Currently***....  
 ...I am finishing my master's in psychology
 
-**Research interests**: Memory, human development and open science.  
+**Research interests**: Memory, human development, sleep, machine learning and open science.  
 #### Education
 
 **10/2021 - now**   
