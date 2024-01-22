@@ -2,8 +2,6 @@
 layout: page
 title: Curriculum Vitae
 ---
-[**Tobias Haase**](tobias.c.haase@gmail.com)
-
 ***Currently***....  
     ...I am doing my PhD.
 
