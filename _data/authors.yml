@@ -8,7 +8,7 @@ tobias:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hello! My name is Tobias Haase and I am a psychology student at Goethe University in Frankfurt, Germany currently pursuing a master degree's in cognitive psychology. 
+    Hello there! I'm Tobias! I am a PhD student who is mainly interested in sleep and memory. 
     
   # This photo will be used in the about section
   picture:
