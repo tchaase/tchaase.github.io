@@ -5,14 +5,16 @@ title: Curriculum Vitae
 ***Currently***....  
     ...I am doing my PhD.
 
-**Research interests**: Memory, sleep, machine learning, human (sleep) development and open science.  
+**Research interests**: Memory, sleep, machine learning, human (sleep) development and open science. 
+
+
 #### education
 
 **01/2024 - now**
 PhD - Steffen Gais' lab in Tübingen
 
 **10/2021 - 12/2023**   
-M.Sc. in Neurocognitive Psychology at Goethe University Frankfurt am Main
+M.Sc. in Neurocognitive Psychology at Goethe University Frankfurt am Main  
 *Thesis: Investigating Neuroanatomic Variability in Autism Spectrum Disorder Using Contrastive Semi-Supervised VAEs*
 
 **10/2018 - 02/2022**  
