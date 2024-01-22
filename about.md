@@ -6,4 +6,4 @@ redirect_from:
 # Welcome!
 <!--author-->
 
-For my PhD I am working with MEG data, trying to investigate what all the fuss about oscillatory activity during sleep is about. For this, I am also *trying* to apply machine learning techniques. 
+For my PhD, I'm investigating the role of oscillatory activity in sleep using MEG data. We are also *trying* to apply machine learning techniques for this to further our understanding of such activity.  
