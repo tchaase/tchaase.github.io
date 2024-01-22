@@ -10,7 +10,7 @@ title: Curriculum Vitae
 
 #### education
 
-**01/2024 - now**
+**01/2024 - now**  
 PhD - Steffen Gais' lab in Tübingen
 
 **10/2021 - 12/2023**   
