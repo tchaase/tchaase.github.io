@@ -2,10 +2,10 @@
 layout: page
 title: Curriculum Vitae
 ---
-[**Tobias Haase**](tobias.c.haase@gmail.com) | Student of Psychology
+[**Tobias Haase**](tobias.c.haase@gmail.com)
 
 ***Currently***....  
-...I am doing my PhD.
+    ...I am doing my PhD.
 
 **Research interests**: Memory, sleep, machine learning, human (sleep) development and open science.  
 #### education
