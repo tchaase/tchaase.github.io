@@ -5,13 +5,17 @@ title: Curriculum Vitae
 [**Tobias Haase**](tobias.c.haase@gmail.com) | Student of Psychology
 
 ***Currently***....  
-...I am finishing my master's in psychology
+...I am doing my PhD.
 
-**Research interests**: Memory, human development, sleep, machine learning and open science.  
-#### Education
+**Research interests**: Memory, sleep, machine learning, human (sleep) development and open science.  
+#### education
 
-**10/2021 - now**   
+**01/2024 - now**
+PhD - Steffen Gais' lab in Tübingen
+
+**10/2021 - 12/2023**   
 M.Sc. in Neurocognitive Psychology at Goethe University Frankfurt am Main
+*Thesis: Investigating Neuroanatomic Variability in Autism Spectrum Disorder Using Contrastive Semi-Supervised VAEs*
 
 **10/2018 - 02/2022**  
 Bachelor of Science in Psychology at Goethe University Frankfurt am Main  
@@ -21,7 +25,7 @@ Bachelor of Science in Psychology at Goethe University Frankfurt am Main
 **03/2021**  
 Fellowship-Award from the Frankfurt Open Science Initiative for the bachelor thesis
 
-**10/2020 - now**   
+**10/2020 - 12/2023**   
 Scholarship from the “Studienstiftung des deutschen Volkes”
 
 #### talks
