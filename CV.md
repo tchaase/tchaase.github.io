@@ -2,11 +2,6 @@
 layout: page
 title: Curriculum Vitae
 ---
-***Currently***....  
-    ...I am doing my PhD.
-
-**Research interests**: Memory, sleep, machine learning, human (sleep) development and open science. 
-
 
 #### education
 
@@ -21,12 +16,14 @@ thesis: *Investigating Neuroanatomic Variability in Autism Spectrum Disorder Usi
 B.Sc. in Psychology at Goethe University Frankfurt am Main  
 thesis: *Effects of sleep Duration and Quality on Memory Consolidation of Preterm and Full-Term Born Children*
 
+
 #### scholarships & awards
 **03/2021**  
 Fellowship-Award from the Frankfurt Open Science Initiative for the bachelor thesis
 
 **10/2020 - 12/2023**   
 Scholarship from the “Studienstiftung des deutschen Volkes”
+
 
 #### talks
 
