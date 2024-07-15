@@ -27,5 +27,10 @@ Scholarship from the “Studienstiftung des deutschen Volkes”
 
 #### talks
 
+**6/2024**   
+Poster presentation on the „Investigating Spatial and Temporal Properties of Human Sleep
+Spindles Using MEG Source-Space Analysis“; Hamburg, [PuG](https://pug2024.de/index.html)
+
+
 **09/2021**   
 Poster presentation on the „Effects of Sleep Duration and Quality on Memory Consolidation of Preterm and Full-Term Born Children“; virtual, [Flux](https://fluxsociety.org/2021-virtual-congress/).
