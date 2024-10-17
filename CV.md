@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 #### education
-**10/2024 - now**
+**10/2024 - now**     
 Doctoral student, Graduate Training Center of Neuroscience
 
 **01/2024 - now**  
@@ -28,7 +28,7 @@ Scholarship from the “Studienstiftung des deutschen Volkes”
 
 
 #### talks
-**9/2024**
+**9/2024**   
 Poster presentation on „Investigating Spatial and Temporal Properties of Human Sleep Spindles Using MEG Source-Space Analysis„; Sevilla, Spain, [ESRS](https://esrs.eu/sleep-congress/scientific-programme/).
 
 **6/2024**   
