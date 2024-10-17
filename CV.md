@@ -4,6 +4,8 @@ title: Curriculum Vitae
 ---
 
 #### education
+**10/2024 - now**
+Doctoral student, Graduate Training Center of Neuroscience
 
 **01/2024 - now**  
 PhD - Steffen Gais' lab in Tübingen
@@ -26,10 +28,11 @@ Scholarship from the “Studienstiftung des deutschen Volkes”
 
 
 #### talks
+**9/2024**
+Poster presentation on „Investigating Spatial and Temporal Properties of Human Sleep Spindles Using MEG Source-Space Analysis„; Sevilla, Spain, [ESRS](https://esrs.eu/sleep-congress/scientific-programme/).
 
 **6/2024**   
-Poster presentation on the „Investigating Spatial and Temporal Properties of Human Sleep
-Spindles Using MEG Source-Space Analysis“; Hamburg, [PuG](https://pug2024.de/index.html)
+Poster presentation on the same topic; Hamburg, [PuG](https://pug2024.de/index.html)
 
 
 **09/2021**   
