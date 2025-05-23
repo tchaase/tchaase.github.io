@@ -52,7 +52,7 @@ legal:
     url:               /NOTICE/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024 Tobias Haase. All rights reserved.
+copyright:             © 2025 Tobias Haase. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -65,8 +65,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9.1.6
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9.1.6
 
 
 # Customizaton
