@@ -37,3 +37,8 @@ Poster presentation on the same topic; Hamburg, [PuG](https://pug2024.de/index.h
 
 **09/2021**   
 Poster presentation on the „Effects of Sleep Duration and Quality on Memory Consolidation of Preterm and Full-Term Born Children“; virtual, [Flux](https://fluxsociety.org/2021-virtual-congress/).
+
+
+
+#### memberships 
+Deutsche Gesellschaft für Psychologie (Fachgruppe Biopsychologie), Deutsche Gesellschaft Gesellschaft für Psychophysiologie und ihre Anwendung
