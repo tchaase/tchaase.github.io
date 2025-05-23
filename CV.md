@@ -42,3 +42,4 @@ Poster presentation on the „Effects of Sleep Duration and Quality on Memory Co
 
 #### memberships 
 Deutsche Gesellschaft für Psychologie (Fachgruppe Biopsychologie), Deutsche Gesellschaft Gesellschaft für Psychophysiologie und ihre Anwendung
+European Sleep Research Society
