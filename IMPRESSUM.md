@@ -3,7 +3,7 @@ layout: plain
 sitemap: false
 ---
 
-#### IMPRESSUM
+# IMPRESSUM
 
 Diese Website ist ein rein privates, nicht-kommerzielles Projekt. Sie verfolgt weder journalistische, kommerzielle noch berufliche Zwecke und unterliegt daher nicht § 5 TMG.
 
