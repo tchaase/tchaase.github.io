@@ -20,5 +20,5 @@ download:
   icon: icon-box-add
 bluesky:
   name: Bluesky
-  icon: icon-bluesky
+  icon: icon-twitter # not available, place holder for now. 
   prepend: 'https://bsky.app/profile/'
