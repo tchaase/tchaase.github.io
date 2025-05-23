@@ -5,9 +5,9 @@ sitemap: false
 
 #### IMPRESSUM
 
-This website is a purely private, non-commercial project. It serves no journalistic, commercial, or professional purpose. Therefore, it is not subject to § 5 TMG.
+Diese Website ist ein rein privates, nicht-kommerzielles Projekt. Sie verfolgt weder journalistische, kommerzielle noch berufliche Zwecke und unterliegt daher nicht § 5 TMG.
 
-Impressum
+Die folgenden Angaben erfolgen freiwillig und dienen der Transparenz:
 
 Angaben gemäß § 5 TMG:
 
