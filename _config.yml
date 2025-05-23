@@ -31,8 +31,8 @@ author:
   picture:             /assets/img/logo.png
   # # Used by `jekyll-seo-tag`:
   social: 
-    twitter:             tc_haase
     github:              tchaase
+    bluesky:            tchaase
 
 # Add links to the sidebar.
 menu:
