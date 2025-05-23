@@ -18,7 +18,7 @@ stackoverflow:
 download:
   name: Download
   icon: icon-box-add
-bluesky
+bluesky:
   name: Bluesky
   icon: icon-bluesky
   prepend: 'https://bsky.app/profile/'
